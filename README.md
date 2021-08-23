@@ -15,4 +15,4 @@ In the second step (folder “BMS Report”; R project “BMS_report.Rproj”), 
 
 ### Additional notes
 - The idea of this project is to help BMS coordinators in producing their own annual report showing the results of the last year of monitoring and a comparison with the previous years. Many improvements are still required, since we've been working on it for only 3 months. Examples may be introducing an API request inside the script to retrieve BMS data  from the online database or the automatic positioning of the figures in the report with respect to the text. Indeed, at the moment figures’ position needs to be set manually in the Rmarkdown document. 
-- To provide a reproducible example, the folder "/BMS Data/Data" includes monitoring data related to the Italian Butterfly Monitoring Scheme (ITBMS) for the period 2017-2019.
+- To provide a reproducible example, the folder "/BMS Data/Data" includes data files related to the Italian Butterfly Monitoring Scheme (ITBMS) activity for the period 2017-2019.
