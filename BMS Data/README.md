@@ -1,4 +1,4 @@
-### Short instructions for running the analysis.
+### Short instructions for running the analysis
 
 #### Installation:
 
