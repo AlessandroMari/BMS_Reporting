@@ -2,7 +2,7 @@ Short instructions for running the analysis.
 
 Prior to the analysis:
 
-- Install the latest version of Rstudio Desktop from https://www.rstudio.com/products/rstudio/download/
+- Install the latest version of [Rstudio Desktop](https://www.rstudio.com/products/rstudio/download/)
 
 To know:
 
