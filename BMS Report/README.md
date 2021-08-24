@@ -1,12 +1,11 @@
-Short instructions for producing the report.
+### Short instructions for producing the report
 
-Prior to knitting the report:
+#### Installation:
 
-- Install the latest version of Rstudio Desktop from https://www.rstudio.com/products/rstudio/download/
-- LaTeX software is required. If it is not installed in your laptop please go to the following link 
-   "https://www.latex-project.org/get/" , where you will find both the versions for Mac (MacTeX) and for Windows (MiKTeX).
+- Install the latest version of [Rstudio Desktop](https://www.rstudio.com/products/rstudio/download/)
+- Install the latest version of [LaTeX](https://www.latex-project.org/get/) for Mac (MacTeX) or for Windows (MiKTeX).
 
-To know:
+#### To know:
 
 - Use this folder ("BMS Report" folder) as the main folder for the work.
 - In the "background" folder the image for the frontpage (first page) of the report can be found. If you want to change 
@@ -20,8 +19,8 @@ To know:
   logos positioning in the front page. This folder should not be opened unless it is necessary to edit the latex file
 - The "logos" folder contains logos images.
 
-For the report creation:
+#### For the report creation:
 
 - For accessing the Rmarkdown script, open the project "Report_BMS.Rproj". In this way you will enter directly
   in the right environment ("BMS Report" folder). Then, open Rmarkdown document "Report.Rmd" from the "files" section in the lower-right part of Rstudio window. 	
-- The document template is provided with text and the consequent figure positioning relative to the ITBMS report for the year 2020. Therefore text is only illustrative and the user is ought to edit it according to the results achieved for its own BMS. 
+- The document template is provided with text and the consequent figure positioning relative to the ITBMS report for the year 2020. Therefore text is only illustrative and the   user is ought to edit it according to the results achieved for its own BMS. 
