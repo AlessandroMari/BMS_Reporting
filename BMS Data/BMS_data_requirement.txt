@@ -1,0 +1,44 @@
+BMS datasets and variables requirement to be analyzed with the different scripts. 
+Names of both datasets and variables has to be respected.
+Dataset has to be in the "datatable" format (package: "data.table", function to import: fread() or function to convert: as.data.table()). 
+Anyway, their format is also checked by the main script and a conversion is performed if they are not in the right format. 
+
+Between [] an example of the variable value is provided.
+[]* variable not used (and not required ideally), but informative for an eventual exploration of the BMS data
+
+Occurences dataset (name: b_count):
+- SAMPLE_ID  [7801983]
+- OCCURRENCE_ID  [13065665]*
+- SITE_ID  [EBMS:Italia:10] 
+- VISIT_DATE  [2020-03-14]
+- SECTION_NUMBER  [S1]*
+- SECTION_CODE  [EBMS:Italia:10.1]*
+- SPECIES  [Pieris brassicae]
+- RECORDER_NAME  [Italian Butterfly Group]
+- START_TIME  [15:00]*
+- END_TIME  [15:15]*
+- COUNT  [9]
+
+Visits dataset (name: m_visit):
+- SAMPLE_ID  [7801983]
+- SITE_ID  [EBMS:Italia:10]
+- SITE_NAME  [via del Purgatorio]
+- LAT [45.01009]
+- LON [7.62560]
+- VISIT_DATE  [2020-03-14]
+- RECORDER_NAME  [Italian Butterfly Group]
+- START_TIME  [15:00]*
+- END_TIME  [15:15]*
+
+Sites dataset (name: m_site):
+- SITE_CODE  [254686]             
+- SITE_NAME  [Acque Dolci]
+- SITE_ID  [EBMS:Italia:32]
+- LAT [45.01009]
+- LON [7.62560]
+- COUNTRY  [216069]*
+- NUMBER_OF_SECTIONS  [2]*
+- OVERALL_LENGTH_(M)  [733]
+- PRINCIPAL_HABITAT_TERM [Forest]
+- PRINCIPAL_LAND_TENURE_TERM [Private Person]
+- PRINCIPAL_LAND_MANAGEMENT_TERM [Mowing]
