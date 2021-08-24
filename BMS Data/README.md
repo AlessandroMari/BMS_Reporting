@@ -1,10 +1,10 @@
-Short instructions for running the analysis.
+### Short instructions for running the analysis.
 
-Prior to the analysis:
+#### Installation:
 
 - Install the latest version of [Rstudio Desktop](https://www.rstudio.com/products/rstudio/download/)
 
-To know:
+#### To know:
 
 - Use this folder ("BMS Data" folder) as the main folder for the work.
 - Files containing data on butterflies occurence, samples and sites need to be located in
@@ -13,7 +13,7 @@ To know:
 - The final graphs can be found in the "graphs" folder after running the script
 
 
-For figures making:
+#### For figures making:
 
 - For accessing the main script, open the project "BMS.Rproj". In this way you will enter directly
   in the right environment ("BMS Data" folder). Then, open the main script "BMS_data_analysis.R"
@@ -25,7 +25,7 @@ For figures making:
 - If you harmonized the three type of dataset as mentioned before, running the main script "BMS_data_analysis.R" should
   make all the figures in the "graphs" folder without issues. 
 
-Additional notes:
+#### Additional notes:
 
 - To provide a reproducible example, the folder "data" includes data files related to the Italian Butterfly Monitoring Scheme (ITBMS) activity for the period 2017-2019. The script "ITBMS_data_prep.R", located in the folder "scripts", prepares the ITBMS data for the analysis according to the text file “BMS_data_requirement.txt”.
 
