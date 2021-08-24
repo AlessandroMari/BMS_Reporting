@@ -23,5 +23,5 @@ To know:
 For the report creation:
 
 - For accessing the Rmarkdown script, open the project "Report_BMS.Rproj". In this way you will enter directly
-  in the right environment ("BMS Report" folder). Then, open Rmarkdown document "Report.Rmd" from the "files" section in   the lower-right part of Rstudio window. 	
-- The document template is provided with text and the consequent figure positioning relative to the ITBMS report for the       year 2020. Therefore, text is only illustrative and the user is ought to edit it according to the results achieved for its own     BMS. 
+  in the right environment ("BMS Report" folder). Then, open Rmarkdown document "Report.Rmd" from the "files" section in the lower-right part of Rstudio window. 	
+- The document template is provided with text and the consequent figure positioning relative to the ITBMS report for the year 2020. Therefore text is only illustrative and the user is ought to edit it according to the results achieved for its own BMS. 
