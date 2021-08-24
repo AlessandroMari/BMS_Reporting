@@ -1,4 +1,4 @@
-# BMS_Reporting
+# BMS-reporting
 
 ### Context and aim
 With increasing monitoring of biodiversity status, producing a report becomes fundamental for communicating scientific results at different scales and for various purposes. Within butterfly conservation, Butterfly Monitoring Schemes (BMSs) operate in an increasing number of countries with broadly the same methodology, and data from monitoring are gathered in a central database, the European Butterfly Monitoring Scheme (eBMS). Consequently, they have the same format and can be analyzed with the same procedure once accurately downloaded.  Yet, not every scheme may have time or the tools to conduct an extensive data analysis and use the outputs to compile an annual report. 
