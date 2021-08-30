@@ -27,6 +27,5 @@
 
 #### Additional notes:
 
-- To provide a reproducible example, the folder "data" includes data files related to the Italian Butterfly Monitoring Scheme (ITBMS) activity for the period 2017-2019. The script "ITBMS_data_prep.R", located in the folder "scripts", prepares the ITBMS data for the analysis according to the text file “BMS_data_requirement.txt”.
-
+- Example data is not available in the "data" folder for privacy reasons. Therefore, codes are not reproducible by a github user that access this project. However, if data is     needed, you can send an email to "ale_seas@libero.it" and I can deliver the request to the owner of the data. 
 
